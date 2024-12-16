@@ -1,6 +1,7 @@
 #include "main.h"
 #include "units/Pose.hpp"
 #include "units/Temperature.hpp"
+#include "units/Dimension.hpp"
 
 /**
  * A callback function for LLEMU's center button.
